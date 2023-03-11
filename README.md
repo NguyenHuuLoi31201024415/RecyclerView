@@ -1,2 +1,2 @@
 Bài Tập RecyclerView
-Link youtube: 
+Link youtube:  https://youtube.com/shorts/dBLjw2j8hUY
